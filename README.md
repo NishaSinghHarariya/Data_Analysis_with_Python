@@ -8,5 +8,5 @@
 - Sea Level Predictor
 
 ## How to run :
-pip install -r requirements.txt <br>
-python main.py
+1. pip install -r requirements.txt <br>
+2. python main.py
