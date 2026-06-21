@@ -3,7 +3,7 @@
  ## Overview :
 This repository contains my projects completed as part of the freeCodeCamp Data Analysis with Python certification.
 
- ## Projects :
+ ## Project Lists :
 - Mean Variance Calculator
 - Demographic Data Analyzer
 - Medical Data Visualizer
